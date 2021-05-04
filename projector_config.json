@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "CSUS Course Descriptions",
+        "tensorShape": [
+          4751,
+          1000
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/Tiger767/STAT196K-Final-Project/main/embedded_course_descriptions.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/Tiger767/STAT196K-Final-Project/main/course_metadata.tsv"
+      }
+    ]
+  }
